@@ -11,13 +11,13 @@ I also saved the user’s input and the prediction result into a local SQLite da
 This project is helpful for giving early warnings and supporting health decisions using data.
 
 
-## 🎯 Objectives 
+##  Objectives 
 - Analyze Patient medical data
 - Predict heart disease with high accuracy
 - Assist in early alert decision-making
 
 
-  ## 🛠 Technologies Used
+  ##  Technologies Used
   - Python
   - Numpy
   - Pandas
@@ -25,7 +25,7 @@ This project is helpful for giving early warnings and supporting health decision
   - Scikit-Learn
  
 
-    ## 🧠 Machine Learning Algorithms
+    ## Machine Learning Algorithms
 
 - Logistic Regression
 - Decision Tree
@@ -35,7 +35,7 @@ This project is helpful for giving early warnings and supporting health decision
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. Load heart disease dataset
 2. Data cleaning and preprocessing
@@ -46,7 +46,7 @@ This project is helpful for giving early warnings and supporting health decision
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** UCI Heart Disease Dataset
 - **Attributes include:**
